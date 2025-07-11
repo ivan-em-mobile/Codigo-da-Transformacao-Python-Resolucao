@@ -1,0 +1,1 @@
+print("Montando estrutura de dados")
