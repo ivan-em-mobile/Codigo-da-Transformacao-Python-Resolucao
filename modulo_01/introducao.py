@@ -1,1 +1,1 @@
-print ("criando introdução")
+print ("Olá, mundo! - Criando o primeiro programa Python")
