@@ -29,6 +29,19 @@ Exibir a hora atual junto com a saudação. Neste desafio, você deve complement
 
 ## Lógica de Programação com Python
 
+1. Crie expressões matemáticas usando operadores aritméticos.
+Escreva pequenos programas que usem operadores como +, -, *, /, e %. Por exemplo, crie um programa que calcule a soma, diferença, multiplicação e divisão de dois números fornecidos.
+
+2. Escreva um programa que peça dois números ao usuário e mostre qual é o maior.
+Desenvolva um programa que solicite ao usuário dois números inteiros e exiba qual deles é maior. Use estruturas condicionais como if para realizar essa comparação.
+
+3. Implemente uma estrutura if-elif-else que classifica a idade de uma pessoa.
+Com base na idade fornecida pelo usuário, crie um programa que classifique a pessoa em categorias como "Criança", "Adolescente", "Adulto" ou "Idoso".
+
+*Desafio Extra
+Criar um menu interativo usando while, permitindo múltiplas operações até o usuário decidir sair.
+O desafio é criar um programa com um menu que ofereça opções como "Soma", "Subtração" e "Sair". O programa deve permitir que o usuário escolha uma opção, realize a operação e volte ao menu até decidir encerrar.
+
 ## Estruturas de Dados
 
 ## Funções em Python
