@@ -45,22 +45,134 @@ O nosso primeiro repositório foi criado para ser a base do seu projeto. A ideia
 * **Desafio Extra:** Crie um menu interativo de calculadora! Use um loop `while` para que o usuário possa escolher entre Soma, Subtração e Sair, repetindo a operação até que ele decida parar.
 
 ---
+## 🔢 Estruturas de Dados
+
+**Organize suas informações como um pro!**
+
+1.  **Crie uma lista de compras:** Desenvolva um programa que permita adicionar, remover e visualizar itens dinamicamente em uma lista.
+
+2.  **Use dicionários para dados de alunos:** Crie um dicionário para armazenar informações como nome, idade e notas. Depois, mostre os dados no console.
+
+3.  **Separe pares e ímpares:** Dado um conjunto de números, use um loop para identificar e exibir quais são pares e quais são ímpares.
+
+* **Desafio Extra:** Construa uma agenda de contatos usando dicionários. Você deve conseguir adicionar, remover, buscar e gerenciar os contatos.
+
+---
+## ⚙️ Funções em Python
+
+**Automatize tarefas e escreva códigos mais limpos!**
+
+1.  **Crie sua primeira função:** Faça uma função chamada `saudacao()` que receba um nome e imprima uma mensagem personalizada.
+
+2.  **Calcule a média de alunos:** Desenvolva uma função `calcular_media()` que receba notas, calcule a média e diga se o aluno foi aprovado ou reprovado.
+
+3.  **Encontre o maior e o menor:** Crie uma função `maior_menor()` que receba uma lista de números e retorne o maior e o menor valor.
+
+* **Desafio Extra:** Implemente um sistema de login simples com uma função para validar usuário e senha, usando um dicionário para armazenar os dados de acesso.
+
+---
+## 📁 Manipulação de Arquivos
+
+**Guarde e gerencie informações fora do código!**
+
+1.  **Crie e leia um arquivo `.txt`:** Faça um programa para escrever e ler informações de um arquivo de texto.
+
+2.  **Trabalhe com JSON:** Salve e carregue um dicionário de clientes em um arquivo `.json`.
+
+3.  **Crie um sistema de notas em CSV:** Desenvolva um programa para adicionar e salvar notas em um arquivo `.csv` e depois carregá-las.
+
+* **Desafio Extra:** Crie um sistema de backup automático com a biblioteca `shutil` para copiar arquivos de uma pasta para outra.
+
+---
+## 📦 Módulos e Pacotes
+
+**Aprenda a reutilizar código e a organizar projetos!**
+
+1.  **Crie seu próprio módulo:** Faça um arquivo `utilidades.py` com funções matemáticas e depois importe-o no seu programa principal.
+
+2.  **Explore bibliotecas externas:** Use uma biblioteca como `faker` para gerar dados falsos ou `datetime` para trabalhar com datas em um programa prático.
+
+3.  **Desenvolva um jogo de adivinhação:** Use as bibliotecas `random` e `math` para criar um jogo simples onde o usuário precisa adivinhar um número.
+
+* **Desafio Extra:** Organize seu projeto em pacotes e módulos. Aprenda a estruturar o código de maneira clara e eficiente para projetos mais complexos.
+
+---
+## 🚗 Programação Orientada a Objetos (POO)
+
+**Crie modelos para resolver problemas do mundo real!**
+
+1.  **Crie uma classe `Carro`:** Defina a classe com atributos como `marca`, `modelo` e um método `exibir_info()`.
+
+2.  **Implemente herança:** Crie uma classe `CarroEletrico` que herda de `Carro` e adiciona o atributo `autonomia_bateria`.
+
+3.  **Use métodos especiais:** Aprenda a usar `__init__` e `__str__` para inicializar atributos e personalizar a exibição de objetos.
+
+* **Desafio Extra:** Crie um sistema de biblioteca com classes `Livro` e `Biblioteca` para gerenciar empréstimos.
+
+---
+## 🐛 Tratamento de Erros
+
+**Prepare seu código para o inesperado!**
+
+1.  **Trate a divisão por zero:** Use `try-except` em uma calculadora para lidar com erros de divisão por zero.
+
+2.  **Crie exceções personalizadas:** Simule uma conta bancária e crie uma exceção personalizada `SaldoInsuficienteError` para saques sem saldo.
+
+3.  **Valide entradas de usuário:** Adicione validações para garantir que dados como idade sejam sempre números positivos.
+
+* **Desafio Extra:** Implemente um sistema de login que trata credenciais inválidas e permite múltiplas tentativas.
+
+**Entrega:** Adicione o código na pasta `Modulo_09/` do seu repositório no GitHub e envie o link.
+
+---
+## 🌐 Introdução a APIs
+
+**Comunique-se com outras aplicações!**
+
+1.  **Consuma uma API:** Use a biblioteca `requests` para pegar dados do tempo da API do OpenWeatherMap.
+
+2.  **Exiba dados específicos:** Filtre e exiba apenas as informações relevantes da API, como temperatura e condições climáticas.
+
+3.  **Trate erros de conexão:** Implemente um bloco de tratamento de exceção para lidar com falhas de requisição HTTP.
+
+* **Desafio Extra:** Crie um programa que busca dados de filmes com a API do TMDB e exiba título, gênero e sinopse.
+
+**Entrega:** Adicione o código na pasta `Modulo_10/` do seu repositório no GitHub e envie o link.
+
+---
+## 🗄️ Banco de Dados com PostgreSQL
+
+**Armazene, organize e gerencie seus dados!**
+
+1.  **Crie sua primeira tabela:** Configure um banco de dados SQLite e crie uma tabela `Clientes` com `id`, `nome` e `email`.
+
+2.  **Implemente operações CRUD:** Desenvolva um programa para inserir, consultar, atualizar e deletar dados na tabela Clientes.
+
+3.  **Filtre dados com SQL:** Execute consultas para extrair informações específicas do banco de dados, como clientes com nome começando em "A".
+
+* **Desafio Extra:** Crie um sistema de gerenciamento de tarefas que permita adicionar, visualizar e excluir tarefas, usando o SQLite para armazenar os dados.
+
+**Entrega:** Adicione o código na pasta `Modulo_11/` do seu repositório no GitHub e envie o link.
+
+---
+## Testes Automatizados**
+- 
+
+---
+## Desenvolvimento de APIs com Flask**
+- 
+
+---
+## Introdução ao Django**
+- 
+
+---
+## Projeto Final**
+- 
+
+---
+**Pronto para começar? #BoraCodar** ✨
 ## 📚 Roteiro Completo - Em Breve!
 
 Este é apenas o começo da nossa jornada! Fique de olho, pois em breve adicionaremos novas atividades sobre os seguintes tópicos:
 
-- **Estruturas de Dados**
-- **Funções em Python**
-- **Manipulação de Arquivos**
-- **Módulos e Pacotes**
-- **Programação Orientada a Objetos (POO)**
-- **Tratamento de Erros**
-- **Introdução a APIs**
-- **Banco de Dados com PostgreSQL**
-- **Testes Automatizados**
-- **Desenvolvimento de APIs com Flask**
-- **Introdução ao Django**
-- **Projeto Final**
-
----
-**Pronto para começar? #BoraCodar** ✨
