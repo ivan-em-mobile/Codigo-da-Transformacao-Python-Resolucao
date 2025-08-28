@@ -1,16 +1,16 @@
 ---
-# 🚀 Código_Transformação: Seu Guia Prático para o Mundo Dev
+# 🚀 Código_Transformação: O Guia Completo para o seu Portfólio Dev
 
 Olá! 👋 Bem-vindo(a) à sua jornada no universo da programação. Este guia foi feito para quem quer aprender, botar a mão na massa e transformar código em algo incrível.
 
-O nosso primeiro repositório foi criado para ser a base do seu projeto. A ideia é que você use este espaço para organizar suas atividades e ver sua evolução. A seguir, você encontra um roteiro prático para dominar as ferramentas e os conceitos essenciais do mundo da tecnologia.
+O seu repositório no GitHub será a base do seu projeto. Use este espaço para organizar suas atividades e ver sua evolução. A seguir, você encontra um roteiro prático para dominar as ferramentas e os conceitos essenciais do mundo da tecnologia.
 
 ---
 ## 💻 Introdução ao Git, GitHub e Metodologias Ágeis
 
 **Chega de teoria, é hora de agir!**
 
-1.  **Crie seu repositório:** Dê o primeiro passo e inicie um repositório público no GitHub. Esse será o seu portfólio de projetos.
+1.  **Crie seu repositório:** Inicie um repositório público no GitHub. Esse será o seu portfólio de projetos.
 
 2.  **Clone para o seu computador:** Baixe o repositório para a sua máquina. É como ter uma cópia local do seu projeto para trabalhar offline.
 
@@ -155,24 +155,24 @@ O nosso primeiro repositório foi criado para ser a base do seu projeto. A ideia
 **Entrega:** Adicione o código na pasta `Modulo_11/` do seu repositório no GitHub e envie o link.
 
 ---
-## Testes Automatizados**
-- 
+## 🧪 Testes Automatizados
+
+*Nenhum arquivo fornecido contém atividades para este tema.*
 
 ---
-## Desenvolvimento de APIs com Flask**
-- 
+## 👨‍💻 Desenvolvimento de APIs com Flask
+
+*Nenhum arquivo fornecido contém atividades para este tema.*
 
 ---
-## Introdução ao Django**
-- 
+## 🌐 Introdução ao Django
+
+*Nenhum arquivo fornecido contém atividades para este tema.*
 
 ---
-## Projeto Final**
-- 
+## 🎯 Projeto Final
+
+*Nenhum arquivo fornecido contém atividades para este tema.*
 
 ---
-**Pronto para começar? #BoraCodar** ✨
-## 📚 Roteiro Completo - Em Breve!
-
-Este é apenas o começo da nossa jornada! Fique de olho, pois em breve adicionaremos novas atividades sobre os seguintes tópicos:
-
+**Pronto para continuar a jornada? #BoraCodar** ✨
