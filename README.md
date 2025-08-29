@@ -1,4 +1,3 @@
----
 # 🚀 Código_Transformação: O Guia Completo para o seu Portfólio Dev
 
 Olá! 👋 Bem-vindo(a) à sua jornada no universo da programação. Este guia foi feito para quem quer aprender, botar a mão na massa e transformar código em algo incrível.
@@ -122,7 +121,7 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Implemente um sistema de login que trata credenciais inválidas e permite múltiplas tentativas.
 
-**Entrega:** Adicione o código na pasta `Modulo_09/` do seu repositório no GitHub e envie o link.
+**Entrega:** Adicione o código na pasta `Modulo_08/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 🌐 Introdução a APIs
@@ -137,7 +136,7 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Crie um programa que busca dados de filmes com a API do TMDB e exiba título, gênero e sinopse.
 
-**Entrega:** Adicione o código na pasta `Modulo_10/` do seu repositório no GitHub e envie o link.
+**Entrega:** Adicione o código na pasta `Modulo_09/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 🗄️ Banco de Dados com PostgreSQL
@@ -152,27 +151,67 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Crie um sistema de gerenciamento de tarefas que permita adicionar, visualizar e excluir tarefas, usando o SQLite para armazenar os dados.
 
-**Entrega:** Adicione o código na pasta `Modulo_11/` do seu repositório no GitHub e envie o link.
+**Entrega:** Adicione o código na pasta `Modulo_10/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 🧪 Testes Automatizados
 
-*Nenhum arquivo fornecido contém atividades para este tema.*
+**Nenhum código é perfeito sem testes!**
+
+1.  **Teste uma função de soma:** Desenvolva um teste simples com o módulo `unittest` para validar uma função de soma.
+
+2.  **Teste uma classe:** Crie testes para a classe `Calculadora` e seus métodos como somar e dividir.
+
+3.  **Valide entradas inválidas:** Adicione cenários de teste para verificar como o programa reage a entradas inválidas (por exemplo, divisão por zero deve lançar uma exceção).
+
+* **Desafio Extra:** Implemente testes automatizados para uma API Flask usando o framework `pytest`.
+
+**Entrega:** Adicione o código na pasta `Modulo_11/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 👨‍💻 Desenvolvimento de APIs com Flask
 
-*Nenhum arquivo fornecido contém atividades para este tema.*
+**Crie serviços web para suas aplicações!**
+
+1.  **Configure um servidor Flask:** Crie um servidor Flask básico com uma rota GET `/saudacao`.
+
+2.  **Crie uma rota POST:** Desenvolva uma rota `/cadastrar` para receber dados de usuário em formato JSON.
+
+3.  **Conecte ao SQLite:** Integre o servidor a um banco de dados SQLite para persistir os dados enviados.
+
+* **Desafio Extra:** Crie uma API completa para um blog, com funcionalidades como criação de posts e autenticação.
+
+**Entrega:** Adicione o código na pasta `Modulo_12/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 🌐 Introdução ao Django
 
-*Nenhum arquivo fornecido contém atividades para este tema.*
+**Construa aplicações web robustas!**
+
+1.  **Crie um projeto e modelo:** Inicie um projeto Django e crie um modelo de `Produto` com campos como `nome`, `descrição`, `preço` e `quantidade`.
+
+2.  **Implemente as rotas e views:** Crie as rotas e views para realizar as operações de cadastro, listagem, atualização e exclusão de produtos.
+
+3.  **Configure o painel de administração:** Gerencie seus produtos pelo painel de administração do Django e escreva testes automatizados para garantir o funcionamento do sistema.
+
+* **Desafio Extra:** Adicione uma busca por nome e paginação na listagem de produtos.
+
+**Entrega:** Adicione o código na pasta `Modulo_13/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 🎯 Projeto Final
 
-*Nenhum arquivo fornecido contém atividades para este tema.*
+**Junte tudo em uma aplicação completa!**
+
+1.  **Planejamento:** Escolha um tema (gerenciamento, e-commerce, portal de notícias) e detalhe os requisitos em um documento.
+
+2.  **Desenvolvimento do Backend:** Use Flask ou Django para criar APIs que gerenciam os dados de interesse e conecte-as a um banco de dados relacional.
+
+3.  **Frontend Simples:** Desenvolva uma interface amigável usando HTML, CSS e JavaScript para interagir com o backend.
+
+* **Desafio Extra:** Faça o deploy do projeto em um servidor web como Heroku ou Render e inclua instruções no `README.md` para testar localmente.
+
+**Entrega:** O projeto deve estar documentado em um repositório no GitHub. Envie o link do repositório para avaliação.
 
 ---
 **Pronto para continuar a jornada? #BoraCodar** ✨
