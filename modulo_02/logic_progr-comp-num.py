@@ -1,3 +1,8 @@
+"""
+Qual é o maior? Faça um programa que peça dois números 
+e diga qual deles é o maior usando a estrutura if.
+"""
+
 def mostrar_menu():
     """Exibe as opções do menu para o usuário."""
     print("\n--- Menu de Comparação de Números ---")
