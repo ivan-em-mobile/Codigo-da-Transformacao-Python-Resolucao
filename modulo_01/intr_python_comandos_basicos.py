@@ -1,3 +1,8 @@
+"""
+Testes básicos: Brinque com comandos como print() e type() 
+no interpretador Python. Descubra como a linguagem "pensa".
+"""
+
 # Imprime uma mensagem simples no console.
 print("Olá, mundo!")
 

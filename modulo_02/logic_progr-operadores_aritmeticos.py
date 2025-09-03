@@ -1,3 +1,9 @@
+"""
+Operadores aritméticos: 
+Crie programas que somam, subtraem, multiplicam, dividem 
+e calculam o resto da divisão.
+"""
+
 # Definindo os dois números para as operações
 numero1 = 15
 numero2 = 4

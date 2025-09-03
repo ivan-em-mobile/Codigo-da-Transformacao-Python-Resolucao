@@ -1,3 +1,9 @@
+"""
+Desafio Extra: Deixe sua mensagem ainda mais legal! 
+Use a biblioteca datetime para exibir a hora atual 
+junto com a saudação.
+"""
+
 # Importa a classe 'datetime' do módulo 'datetime'.
 from datetime import datetime
 

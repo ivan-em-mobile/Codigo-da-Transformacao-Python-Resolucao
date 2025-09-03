@@ -1,3 +1,9 @@
+"""
+Classificando idades: Use if-elif-else para criar um programa
+que classifique a idade de uma pessoa em 
+"Criança", "Adolescente", "Adulto" ou "Idoso".
+"""
+
 from datetime import datetime
 
 def mostrar_menu():

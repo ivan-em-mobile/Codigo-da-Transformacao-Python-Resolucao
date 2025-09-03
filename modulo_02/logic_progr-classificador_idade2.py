@@ -1,3 +1,10 @@
+"""
+Solução alternativa.
+Classificando idades: Use if-elif-else para criar um programa
+que classifique a idade de uma pessoa em 
+"Criança", "Adolescente", "Adulto" ou "Idoso".
+"""
+
 # A função input() obtém a idade do usuário como texto.
 # A função int() converte o texto para um número inteiro.
 idade = int(input("Digite a sua idade: "))

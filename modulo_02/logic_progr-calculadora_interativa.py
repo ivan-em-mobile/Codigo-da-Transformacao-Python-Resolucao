@@ -1,3 +1,9 @@
+"""
+Desafio Extra: Crie um menu interativo de calculadora! 
+Use um loop while para que o usuário possa escolher entre 
+Soma, Subtração e Sair, repetindo a operação até que ele decida parar.
+"""
+
 def mostrar_menu():
     """Exibe as opções do menu para o usuário."""
     print("\n--- Menu de Operações ---")
