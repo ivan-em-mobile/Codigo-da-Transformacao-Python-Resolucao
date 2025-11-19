@@ -11,7 +11,7 @@ faker = Faker('pt_BR')  # 'pt_BR' para gerar dados em português do Brasil
 print("Gerando 5 perfis de usuários com dados falsos:\n")
 
 # Loop para gerar 5 perfis
-for i in range(15):
+for i in range(5):
     nome = faker.name()
     endereco = faker.address()
     email = faker.email()

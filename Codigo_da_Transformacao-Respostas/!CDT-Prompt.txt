@@ -1,0 +1,11 @@
+Com base nesta imagem pode converter para texto, somente por favor.
+
+Usando Markdown como posso deixar esse readme.md mais atrativo para jovens entre 16 a 25 anos. Pode mostrar para mim por favor.
+
+Pode deixar como markdown. Me mostre como é o código markdown deste arquivo.
+
+Por favor, preciso que todas essas imagens se torne textos somente. Depois disso eles serão usado como arquivos em markdown. Pode fazer isso. Me mostre como é o código markdown deste arquivo.
+
+Com base nesse arquivo preciso organizar neste seguinte temas: Introdução ao Git, GitHub e Metodologias Ágeis; Introdução ao Python; Lógica de Programação com Python; Estruturas de Dados; Funções em Python; Manipulação de Arquivos; Módulos e Pacotes; Programação Orientada a Objetos (POO); Tratamento de Erros; Introdução a APIs; Banco de Dados com PostgreSQL; Testes Automatizados; Desenvolvimento de APIs com Flask; Introdução ao Django; Projeto Final
+
+Está mantem naquela ordem: Introdução ao Git, GitHub e Metodologias Ágeis; Introdução ao Python; Lógica de Programação com Python; Estruturas de Dados; Funções em Python; Manipulação de Arquivos; Módulos e Pacotes; Programação Orientada a Objetos (POO); Tratamento de Erros; Introdução a APIs; Banco de Dados com PostgreSQL; Testes Automatizados; Desenvolvimento de APIs com Flask; Introdução ao Django; Projeto Final
